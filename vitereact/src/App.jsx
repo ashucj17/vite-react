@@ -1,8 +1,6 @@
-import { useState } from "react";
+/* import { useState } from "react";
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <>
       <h1>Started with vite</h1>
@@ -11,3 +9,4 @@ function App() {
 }
 
 export default App;
+ */
